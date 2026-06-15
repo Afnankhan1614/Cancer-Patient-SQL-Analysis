@@ -72,11 +72,9 @@ This query uses COUNT(*) to calculate the total number of patients available in 
 
 Provides the overall dataset size and serves as the starting point for analysis.
 
-### 💻 Code View
+### 📸 Output
 
-```sql
 ![Total Patients](Output%20screenshots/01_Total_Patients.png)
-```
 
 ---
 
@@ -90,12 +88,9 @@ Groups patients by state and counts the total number of cases in each region.
 
 Highlights states with higher cancer patient volumes and supports healthcare planning.
 
-### 💻 Code View
+### 📸 Output
 
-```sql
 ![Patients By State](Output%20screenshots/04_Patients_By_State.png)
-
-```
 
 ---
 
@@ -109,12 +104,9 @@ This query groups patients by gender and counts the number of patients in each c
 
 Helps identify whether cancer cases are more prevalent among male or female patients, supporting demographic analysis and targeted healthcare initiatives.
 
-### 💻 Code View
+### 📸 Output
 
-```sql
 ![Age Group Analysis](Output%20screenshots/05_Age_Group_Analysis.png)
-
-```
 
 ---
 

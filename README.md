@@ -71,6 +71,7 @@ This query uses COUNT(*) to calculate the total number of patients available in 
 ### 💡 Business Insight
 
 Provides the overall dataset size and serves as the starting point for analysis.
+![Total Patients](Output%20screenshots/01_Total_Patients.png)
 
 ### 📸 Output
 ![Total Patients](Output%20screenshots/01_Total_Patients.png)
